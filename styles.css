@@ -5,3 +5,12 @@
 .title{
     color: white;
 }
+
+.underTitle{
+    color: blueviolet;
+    text-decoration: underline;
+    border: thin solid red;
+    width: 50%;
+    height: 50px;
+    Box-shadow: 3px 3px 3px black;
+}
