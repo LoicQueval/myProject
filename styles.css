@@ -1,26 +1,12 @@
-.background {
-    background-color: blue;
-}
-
-.title{
-    color: white;
-}
-
-.underTitle{
-    color: blueviolet;
-    text-decoration: underline;
-    border: thin solid red;
-    width: 50%;
-    height: 50px;
-    Box-shadow: 3px 3px 3px black;
-}
-
-html,body{
-    margin: -11px 0 0 300px;
+main {
+    width: 734px;
+    height: 100%;
+    margin: -8px 0 0 31%;
+    background: rgba(0, 174, 201, 0.21);
 }
 
 header{
-    background-image: url("Asset/Bannière.jpg");
+    background-image: url("Asset/Banniere.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 90px;
@@ -42,11 +28,6 @@ h1 {
     font-size: small;
 }
 
-#page {
-    background: rgba(0, 174, 201, 0.21);
-    width: 734px;
-    height: 100%;
-}
 
 
 #infos{
