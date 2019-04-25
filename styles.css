@@ -6,10 +6,9 @@ main {
 }
 
 header{
-    background-image: url("Asset/Banniere.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 90px;
+    background-image: url("Asset/Banniere.jpg");
+    background-size: cover;
 }
 
 h1 {
@@ -19,13 +18,12 @@ h1 {
     font-family:"Arial Black";
 }
 
-#intro{
-    margin: 40px 0 0 10px;
-    color: rgba(255, 0, 0, 0.6);
+.intro{
+    margin: 55px 0 0 10px;
+    color: rgba(255, 0, 0, 0.73);
     position: absolute;
     font-family:"Arial Black";
     font-style: italic;
-    font-size: small;
 }
 
 
