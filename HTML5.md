@@ -31,8 +31,20 @@ La baliste paragraphe `<p>` est souvent associer à un titre `<h1>` dans le but 
 
 ### Article
 
-La balise `<article>` est une balise destiner à contenir du contenu indépendant du reste de la page, il est généralement dans une balise `<section>`
+La balise `<article>` est une balise destiner à contenir du contenu indépendant du reste de la page web, il est généralement dans une balise `<section>`
 
+
+```html
+    <article>
+      <h2>Mon deuxième titre le plus important</h2>
+        <p>Mon super paragraphe 1</p>
+        <p>Mon super paragraphe 2</p>
+    </article>
+```
+
+### Section
+
+La balise `<section>` est similaire à la balise `<div>`, elle divise la page mais contrairement à `<div>` elle a pour but de regrouper du contenu
 
 ```html
   <section>
@@ -42,6 +54,8 @@ La balise `<article>` est une balise destiner à contenir du contenu indépendan
         <p>Mon super paragraphe 2</p>
     </article>
   </section>
+```
+
 
 ### Div
 
@@ -55,6 +69,7 @@ La balise `<article>` est une balise destiner à contenir du contenu indépendan
         <p>Mon super paragraphe 1</p>
         <p>Mon super paragraphe 2</p>
     </article>
+    
     <article>
       <h2>Mon deuxième titre le plus important</h2>
         <p>Mon super paragraphe 1</p>
@@ -70,6 +85,7 @@ La balise `<article>` est une balise destiner à contenir du contenu indépendan
           <p>Mon super paragraphe 1</p>
           <p>Mon super paragraphe 2</p>
       </article>
+    
       <article>
         <h2>Mon deuxième titre le plus important</h2>
           <p>Mon super paragraphe 1</p>
