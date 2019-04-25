@@ -4,7 +4,7 @@ HTML5 (*HyperText Markup Language 5*) est la dernière révision du HTML finalis
 
 ## Titre
 
-La baliste `<h1>` est une baliste pour un titre de page
+La balise `<h1>` est une balise pour un titre de page
 
 ```html
 <h1>Mon premier titre le plus important</h1>
@@ -15,7 +15,7 @@ La baliste `<h1>` est une baliste pour un titre de page
 <h6>Mon sixième titre le plus important</h6>
 ```
 
-**Important** : Uniquement un `<h1>` par page, toujours concerver une logique dans les titres (pas de `<h1>` puis de `<h3>`)
+**Important** : Uniquement un `<h1>` par page, toujours conserver une logique dans les titres (pas de `<h1>` puis de `<h3>`)
 
 ## Paragraphe
 
@@ -99,8 +99,27 @@ La balise `<section>` est similaire à la balise `<div>`, elle divise la page ma
 
 ### Non-Ordonnée
 
+La balise `<ul>` sert à faire des listes non-ordonnée, la balise `<li>` servent à sélectionnner les éléments de cette liste
+
+```html
+<ul>
+  <li>Mon premier élément</li>
+  <li>Mon deuxième élément</li>
+  <li>Mon troisième élément</li>
+</ul>
+```
+
 ### Ordonnée
 
+La balise `<ol>` sert à faire des liste ordonnée, la balise `<li>` servent à nouveau à sélectionner les éléments de cette liste
+
+```html
+<ol>
+  <li>Mon premier élément</li>
+  <li>Mon deuxième élément</li>
+  <li>Mon troisième élément</li>
+</ol>
+```
 
 ## Lien
 
