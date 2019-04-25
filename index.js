@@ -1,7 +1,4 @@
-console.log('coucou');
-
-
-const me ={
+const me = {
     firstName: 'Loïc',
     lastName: 'Queval',
     usualName: 'Moreno',
@@ -15,11 +12,6 @@ const me ={
     gender: 'H',
     studies: 'mes études',
 };
-
-
-
-const title = document.querySelector('h1');
-title.textContent = me.lastName + ' ' + me.usualName + ' ' + me.firstName;
 
 const intro = document.querySelector('#intro');
 intro.textContent = me.intro;
@@ -43,8 +35,12 @@ function sayGender(personParameter) {
         info5.textContent = 'Homme';
 }
 
-sayGender(me)
+sayGender(me);
 
 const myDate = document.querySelector('#myDate');
 myDate.innerText = new Date().toLocaleDateString();
 console.log(myDate);
+
+const myName = document.querySelector('h1');
+console.log(myName);
+myName.textContent = me.lastName + " " + me.usualName + " " + me.firstName;
