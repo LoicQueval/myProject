@@ -14,3 +14,8 @@
 
 `width` représente la largeur et `height` représente la hauteur  
 Ils servent à définir la taille d'une zone en px (pixel) ou en % (pourcentage)
+
+```css
+    width: 50%;
+    height: 50px;
+```
