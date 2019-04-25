@@ -59,7 +59,7 @@ This is **not** a blockquote
 
 This is a code's syntaxe color :
     
-```javascript
+```css
 .title{
     color: white;
 }
