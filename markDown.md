@@ -60,7 +60,8 @@ This is **not** a blockquote
 This is a code's syntaxe color :
     
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+.title{
+    color: white;
+}
 ```
     
