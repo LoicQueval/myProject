@@ -49,4 +49,4 @@ This is **not** a blockquote
 
 ## Line code
   
-> `This is a line code <addr>`
+> `This is a line with code <section>`
