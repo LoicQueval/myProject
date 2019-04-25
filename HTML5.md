@@ -44,7 +44,7 @@ La balise `<article>` est une balise destiner à contenir du contenu indépendan
 
 ### Section
 
-La balise `<section>` est similaire à la balise `<div>`, elle divise la page mais contrairement à `<div>` elle a pour but de regrouper du contenu
+La balise `<section>` est similaire à la balise `<div>`, elle divise la page mais contrairement à `<div>` elle a pour but de regrouper du contenu généralement dans une balise `<article>`
 
 ```html
   <section>
@@ -95,13 +95,14 @@ La balise `<section>` est similaire à la balise `<div>`, elle divise la page ma
 </div>
 ```
 
-## Lien
-
 ## Listes
 
 ### Non-Ordonnée
 
 ### Ordonnée
+
+
+## Lien
 
 ## nav
 
