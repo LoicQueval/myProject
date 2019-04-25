@@ -14,3 +14,128 @@
     height: 50px;
     Box-shadow: 3px 3px 3px black;
 }
+
+html,body{
+    margin: -11px 0 0 300px;
+}
+
+header{
+    background-image: url("Asset/Bannière.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90px;
+}
+
+h1 {
+    margin: 15px 0 0 10px;
+    color: rgba(255, 255, 255, 0.71);
+    position: absolute;
+    font-family:"Arial Black";
+}
+
+#intro{
+    margin: 40px 0 0 10px;
+    color: rgba(255, 0, 0, 0.6);
+    position: absolute;
+    font-family:"Arial Black";
+    font-style: italic;
+    font-size: small;
+}
+
+#page {
+    background: rgba(0, 174, 201, 0.21);
+    width: 734px;
+    height: 100%;
+}
+
+
+#infos{
+    text-align: center;
+    margin: 0;
+}
+
+#infos1{
+    font-family:"Arial Black";
+    font-size: small;
+    font-style: italic;
+    border-right: 1px solid rgba(255, 0, 0, 0.51);
+    padding-right: 15px;
+}
+
+#infos2{
+    font-family:"Arial Black";
+    font-size: small;
+    font-style: italic;
+    border-right: 1px solid rgba(255, 0, 0, 0.51);
+    padding-right: 15px;
+    margin-left: 10px;
+}
+
+#infos3{
+    font-family:"Arial Black";
+    font-size: small;
+    font-style: italic;
+    border-right: 1px solid rgba(255, 0, 0, 0.51);
+    padding-right: 10px;
+    margin-left: 10px;
+}
+
+#infos4{
+    font-family:"Arial Black";
+    font-size: small;
+    font-style: italic;
+    border-right: 1px solid rgba(255, 0, 0, 0.51);
+    padding-right: 15px;
+    margin-left: 10px;
+}
+
+#infos5{
+    font-family:"Arial Black";
+    font-size: small;
+    margin-left: 10px;
+}
+
+#left {
+    position: absolute;
+    width: 300px;
+    height: 700px;
+    margin: 40px 0 0 50px;
+    border: 1px solid #808080;
+}
+
+#rigth {
+    position: relative;
+    width: 300px;
+    height: 700px;
+    margin: 40px 0 0 380px;
+    border: 1px solid #808080;
+}
+
+h2 {
+    margin-top: 0;
+    background: rgba(128, 128, 128, 0.17);
+    font-family: "Arial Black";
+    font-size: large;
+    text-align: center;
+}
+
+p {
+    margin: 0px 5px 15px 10px;
+    padding: 2px;
+    font-size: small;
+    font-family: "Arial";
+    text-align: center;
+}
+
+b{
+    font-size: medium;
+}
+
+i{
+    font-family: "fantasy";
+    font-size: medium;
+}
+
+footer{
+    margin-top: 10%;
+}
