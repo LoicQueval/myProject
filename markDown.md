@@ -59,9 +59,8 @@ This is **not** a blockquote
 
 This is a code's syntaxe color :
     
-```css
-.title{
-  color: white;
-}
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
 ```
     
