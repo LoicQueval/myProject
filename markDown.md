@@ -5,19 +5,19 @@ For create Docs in GitHubs, Create a readMe.md
 
 ## Headers
 
-> `# This is an <h1> tag     `  
-> `## This is an <h2> tag    `  
-> `### This is an <h3> tag   `  
-> `#### This is an <h4> tag  `  
-> `##### This is an <h5> tag `  
+> `# This is an <h1> tag`  
+> `## This is an <h2> tag`  
+> `### This is an <h3> tag`  
+> `#### This is an <h4> tag`  
+> `##### This is an <h5> tag`  
 > `###### This is an <h6> tag`  
 
 ## Italic and Bold
 
-> `*This text will be italic*     `  
+> `*This text will be italic*`  
 > `_This text will also be italic_`  
   
-> `**This text will be bold**     `  
+> `**This text will be bold**`  
 > `__This text will also be bold__`  
   
 > `_You **can** combine them_`  
@@ -27,8 +27,8 @@ For create Docs in GitHubs, Create a readMe.md
   
 ### Unordered
   
->  * `* Item 1   `  
->  * `* Item 2   `  
+> * `* Item 1`  
+> * `* Item 2`  
 >   *` * Item 2a`  
 >   *` * Item 2b`
   
