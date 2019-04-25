@@ -50,3 +50,11 @@ This is **not** a blockquote
 ## Line code
   
 > `This is a line with code <section>`
+
+## Syntaxe color code
+
+This is a code's syntaxe color :
+```html
+        <h1>Mon super titre</h1>
+          <h2 class="underTitle">Mon super sous titre</h2> 
+```
