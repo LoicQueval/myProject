@@ -14,14 +14,14 @@ For create Docs in GitHubs, Create a readMe.md
 
 ## Italic and Bold
 
-> `*This text will be italic*`  
-> `_This text will also be italic_`  
+> `*`This text will be italic`*`  
+> `_`This text will also be italic`_`  
   
-> `**This text will be bold**`  
-> `__This text will also be bold__`  
+> `**`This text will be bold`**`  
+> `__`This text will also be bold`__`  
   
-> `_You **can** combine them_`  
-> `*You __can__ combine them*`
+> `_`You `**`can`**` combine them`_`  
+> `*`You `__`can`__` combine them`*`
 
 ## Lists  
   
