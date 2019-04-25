@@ -121,7 +121,18 @@ La balise `<ol>` sert à faire des liste ordonnée, la balise `<li>` servent à 
 </ol>
 ```
 
-## Lien
+## Lier
+
+La balise `<link>` sert à lier des ressources entre elle, le plus souvent une page CSS
+
+### Les attribut de `<link>`
+
+#### 1. `href` et `rel`
+
+`href` est un attribut qui renseigne sur l'endroit (URL) où est le fichier à lier  
+Il est souvent utiliser avec `rel` qui lui renseigne sur la relation entre le document et le document lier
+
+
 
 ## nav
 
