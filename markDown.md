@@ -1,7 +1,7 @@
 # Markdown
 
 Markdown is a way to ***style*** text on the web. Mostly, Markdown is just ***regular text*** with few non-alphabetic characters.  
-For create Docs in GitHubs, Create a readMe.md .
+For create Docs in GitHubs, Create a readMe.md 
 
 ## Headers
 
@@ -13,3 +13,23 @@ For create Docs in GitHubs, Create a readMe.md .
 >  `###### This is an <h6> tag`  
 
 ## Italic and Bold
+
+> `*This text will be italic*`  
+> `_This text will also be italic_`  
+  
+> `**This text will be bold**`  
+> `__This text will also be bold__`  
+  
+> `_You **can** combine them_`  
+> `*You __can__ combine them*`
+
+## Lists  
+  
+### Unordered
+  
+> `* Item 1`  
+> `* Item 2`  
+  > `* Item 2a`  
+  > `* Item 2b`
+  
+### Ordered
