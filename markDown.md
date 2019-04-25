@@ -59,9 +59,9 @@ This is **not** a blockquote
 
 This is a code's syntaxe color :
 
-```css
-.title{
-    color: white;
-}
-```
+    ```css
+    .title{
+        color: white;
+    }
+    ```
 
