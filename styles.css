@@ -1,3 +1,7 @@
+html{
+
+}
+
 main {
     width: 734px;
     height: 100%;
@@ -20,7 +24,7 @@ h1 {
 
 .intro{
     margin: 55px 0 0 10px;
-    color: rgba(255, 0, 0, 0.73);
+    color: rgba(255, 0, 0, 0.72);
     position: absolute;
     font-family:"Arial Black";
     font-style: italic;
@@ -116,5 +120,5 @@ i{
 }
 
 footer{
-    margin-top: 10%;
+    margin-top: 7%;
 }

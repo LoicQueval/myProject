@@ -3,7 +3,6 @@ const me = {
     firstName: 'Loïc',
     lastName: 'Queval',
     usualName: 'Moreno',
-    intro: 'Connaissances en language informatique et en électronique',
     address: '1 rue Pierre Dac',
     cityCode: 92110,
     city: 'Clichy',
@@ -16,9 +15,6 @@ const me = {
 
 const myName = document.querySelector('h1');
 myName.textContent = me.lastName + " " + me.usualName + " " + me.firstName;
-
-const intro = document.querySelector('#intro');
-intro.textContent = me.intro;
 
 const info1 = document.querySelector('#infos1');
 info1.textContent = me.telephoneNumber;
