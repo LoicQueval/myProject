@@ -54,11 +54,9 @@ This is **not** a blockquote
 ## Syntaxe color code
 
 This is a code's syntaxe color :
-```html
-<h1>Mon super titre<h1>
+```css
+.title{
+    color: white;
+}
 ```
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+
