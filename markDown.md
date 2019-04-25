@@ -29,8 +29,8 @@ For create Docs in GitHubs, Create a readMe.md
   
 > * `* Item 1`  
 > * `* Item 2`  
->   *` * Item 2a`  
->   *` * Item 2b`
+>   * ` * Item 2a`  
+>   * ` * Item 2b`
   
 ### Ordered  
   
@@ -46,3 +46,7 @@ For create Docs in GitHubs, Create a readMe.md
 > This is a Blockquote  
 
 This is **not** a blockquote  
+
+## Line code
+  
+> `This is a line code <addr>`
