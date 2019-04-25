@@ -58,10 +58,10 @@ This is **not** a blockquote
 ## Syntaxe color code
 
 This is a code's syntaxe color :
-
-    ```css
-    .title{
-        color: white;
-    }
-    ```
-
+    
+```css
+.title{
+  color: white;
+}
+```
+    
