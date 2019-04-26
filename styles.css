@@ -1,12 +1,10 @@
-html{
-
-}
 
 main {
     width: 734px;
     height: 100%;
     margin: -8px 0 0 31%;
     background: rgba(0, 174, 201, 0.21);
+    font-family:"Arial Black";
 }
 
 header{
@@ -19,62 +17,50 @@ h1 {
     margin: 15px 0 0 10px;
     color: rgba(255, 255, 255, 0.71);
     position: absolute;
-    font-family:"Arial Black";
 }
 
 .intro{
     margin: 55px 0 0 10px;
     color: rgba(255, 0, 0, 0.72);
     position: absolute;
-    font-family:"Arial Black";
+    font-style: italic;
+    font-family: "Arial Black";
+}
+
+article{
+    width: 20%;
+    font-size: small;
     font-style: italic;
 }
 
-
-
-#infos{
-    text-align: center;
-    margin: 0;
+.flex{
+    flex-direction: row;
 }
 
 #infos1{
-    font-family:"Arial Black";
-    font-size: small;
-    font-style: italic;
     border-right: 1px solid rgba(255, 0, 0, 0.51);
     padding-right: 15px;
 }
 
 #infos2{
-    font-family:"Arial Black";
-    font-size: small;
-    font-style: italic;
     border-right: 1px solid rgba(255, 0, 0, 0.51);
     padding-right: 15px;
     margin-left: 10px;
 }
 
 #infos3{
-    font-family:"Arial Black";
-    font-size: small;
-    font-style: italic;
     border-right: 1px solid rgba(255, 0, 0, 0.51);
     padding-right: 10px;
     margin-left: 10px;
 }
 
 #infos4{
-    font-family:"Arial Black";
-    font-size: small;
-    font-style: italic;
     border-right: 1px solid rgba(255, 0, 0, 0.51);
     padding-right: 15px;
     margin-left: 10px;
 }
 
 #infos5{
-    font-family:"Arial Black";
-    font-size: small;
     margin-left: 10px;
 }
 
@@ -97,7 +83,6 @@ h1 {
 h2 {
     margin-top: 0;
     background: rgba(128, 128, 128, 0.17);
-    font-family: "Arial Black";
     font-size: large;
     text-align: center;
 }
