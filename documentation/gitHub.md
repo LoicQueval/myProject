@@ -12,4 +12,3 @@ On revert si le push/commit du fichier extérieur ne nous plait pas
 On merge si le push/commit du fichier extérieur nous plait
 On pull du cloud vers le fichier local ou extérieur pour récupérer la nouvelle version
 On commit pour découper en plusieurs partie son pull et éviter un revert sur tout les fichiers
-
