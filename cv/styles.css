@@ -21,74 +21,84 @@ h1 {
 
 .intro{
     margin: 40px 0 0 10px;
-    color: rgba(255, 0, 0, 0.72);
+    color: rgba(255, 0, 0, 0.8);
     position: absolute;
     font-style: italic;
     font-family: "Arial Black";
 }
 
-article{
-    width: 22%;
-    font-size: 10px;
-    text-align: center;
-}
-
 .flex{
     display:  flex;
     flex-direction: row;
-
+    text-shadow: grey;
 }
 
 h2 {
-    margin-top: 0;
-    background: rgba(128, 128, 128, 0.17);
-    font-size: large;
+    margin: 0px 0px 0px 0px;
+    background: rgba(128, 128, 128, 0.4);
+    font-size: x-large;
     text-align: center;
+    border-style: groove none groove;
+    color: rgba(0, 0, 0, 0.71);
 }
 
 h3{
-    font-size: medium;
+    font-size: large;
     font-family: Arial;
+    margin-top: 10px;
+    text-decoration: underline;
 }
 
 .downHead{
     border-right: 1px solid rgba(255, 0, 0, 0.51);
-    margin-left: 10px;
-    padding-right: 13px;
+    margin-left: 25px;
+    padding-right: 20px;
 }
 
 #left {
     position: absolute;
     width: 300px;
-    height: 700px;
-    margin: 40px 0 0 50px;
+    height: 750px;
+    margin: 0px 0 0 50px;
     border: 1px solid #808080;
     text-align: center;
+    box-shadow: 4px 4px 2px grey;
 }
 
 #rigth {
     position: relative;
     width: 300px;
-    height: 700px;
-    margin: 40px 0 0 380px;
+    height: 750px;
+    margin: 0px 0 0 380px;
     border: 1px solid #808080;
     text-align: center;
+    box-shadow: 4px 4px 2px grey;
 }
 
 
 p {
-    margin: 0px 5px 15px 10px;
-    padding: 2px;
+    margin: 0px 0px 15px 10px;
+    padding: 5px;
     font-size: small;
     font-family: "Arial";
 }
 
-i{
+li{
+    font-family: Arial;
+    font-size: smaller;
+    margin-right: 35px;
+    list-style-type: none;
+    padding-bottom: 5px;
+}
+
+span{
     font-family: "fantasy";
     font-size: medium;
+    font-style: italic;
 }
 
 footer{
-    margin-top: 7%;
+    margin-top: 40px;
     text-align: center;
+    text-shadow: 2px 2px 3px grey;
 }
