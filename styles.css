@@ -7,7 +7,6 @@ main {
     font-family:"Arial Black";
 }
 
-
 header{
     height: 70px;
     background-image: url("Asset/Banniere.jpg");
@@ -34,11 +33,22 @@ article{
     text-align: center;
 }
 
-
 .flex{
     display:  flex;
     flex-direction: row;
 
+}
+
+h2 {
+    margin-top: 0;
+    background: rgba(128, 128, 128, 0.17);
+    font-size: large;
+    text-align: center;
+}
+
+h3{
+    font-size: medium;
+    font-family: Arial;
 }
 
 .downHead{
@@ -53,6 +63,7 @@ article{
     height: 700px;
     margin: 40px 0 0 50px;
     border: 1px solid #808080;
+    text-align: center;
 }
 
 #rigth {
@@ -61,25 +72,15 @@ article{
     height: 700px;
     margin: 40px 0 0 380px;
     border: 1px solid #808080;
-}
-
-h2 {
-    margin-top: 0;
-    background: rgba(128, 128, 128, 0.17);
-    font-size: large;
     text-align: center;
 }
+
 
 p {
     margin: 0px 5px 15px 10px;
     padding: 2px;
     font-size: small;
     font-family: "Arial";
-    text-align: center;
-}
-
-b{
-    font-size: medium;
 }
 
 i{
@@ -89,4 +90,5 @@ i{
 
 footer{
     margin-top: 7%;
+    text-align: center;
 }
