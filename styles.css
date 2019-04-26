@@ -7,30 +7,31 @@ main {
     font-family:"Arial Black";
 }
 
+
 header{
-    height: 90px;
+    height: 70px;
     background-image: url("Asset/Banniere.jpg");
     background-size: cover;
 }
 
 h1 {
-    margin: 15px 0 0 10px;
+    margin: 0 0 0 10px;
     color: rgba(255, 255, 255, 0.71);
     position: absolute;
 }
 
 .intro{
-    margin: 55px 0 0 10px;
+    margin: 40px 0 0 10px;
     color: rgba(255, 0, 0, 0.72);
     position: absolute;
     font-style: italic;
     font-family: "Arial Black";
 }
 
+
 article{
     width: 22%;
     font-size: 10px;
-    font-style: italic;
     text-align: center;
 }
 
@@ -40,26 +41,26 @@ article{
 
 }
 
-#infos1{
+.downHead{
     border-right: 1px solid rgba(255, 0, 0, 0.51);
+}
+
+#infos1{
     padding-right: 15px;
     margin-left: 10px;
 }
 
 #infos2{
-    border-right: 1px solid rgba(255, 0, 0, 0.51);
     padding-right: 15px;
     margin-left: 10px;
 }
 
 #infos3{
-    border-right: 1px solid rgba(255, 0, 0, 0.51);
     padding-right: 10px;
     margin-left: 10px;
 }
 
 #infos4{
-    border-right: 1px solid rgba(255, 0, 0, 0.51);
     padding-right: 15px;
     margin-left: 10px;
 }
