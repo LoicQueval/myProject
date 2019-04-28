@@ -39,6 +39,7 @@ main{
 
 .flex{
     display: flex;
+    justify-content: space-evenly;
 }
 
 .down-head{
@@ -50,11 +51,18 @@ main{
 
 p {
     padding: 5px;
-    margin: 0 5px;
+    margin: 0 0 10px 0;
     font-size: small;
 }
 
-
+.box{
+    margin-top: 10px;
+    width: 300px;
+    height: 715px;
+    border: 1px solid #808080;
+    text-align: center;
+    box-shadow: 4px 4px 2px grey;
+}
 
 footer{
     padding: 17px;
@@ -62,9 +70,6 @@ footer{
     text-shadow: 2px 2px 3px grey;
     background: rgba(0, 174, 201, 0.21);
 }
-
-
-
 
 h2 {
     margin: 0;
@@ -80,28 +85,6 @@ h3{
     margin-top: 10px;
     text-decoration: underline;
 }
-
-
-#left {
-    position: absolute;
-    width: 300px;
-    height: 750px;
-    margin: 0 0 0 50px;
-    border: 1px solid #808080;
-    text-align: center;
-    box-shadow: 4px 4px 2px grey;
-}
-
-#rigth {
-    position: relative;
-    width: 300px;
-    height: 750px;
-    margin: 0 0 0 380px;
-    border: 1px solid #808080;
-    text-align: center;
-    box-shadow: 4px 4px 2px grey;
-}
-
 
 li{
     font-size: smaller;
