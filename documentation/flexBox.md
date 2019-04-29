@@ -21,4 +21,6 @@ La propriété `flex-direction: row | row-reverse | column | column-reverse` ser
 > `column` : place les blocs enfants en colonne de haut en bas  
 > `column-reverse` : place les blocs enfants en colonne de bas en haut  
 
+### Gérer l'étendu d'un parent
 
+La propriété `flex-wrap` par défault
