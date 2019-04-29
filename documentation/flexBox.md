@@ -16,9 +16,9 @@ La propriété `display: flex` et `display: inline-flex` on pour but de rendre l
 
 La propriété `flex-direction: row | row-reverse | column | column-reverse` sert à placer les bloc enfants dans le bloc parents
 
-> `row` (par défaut) place les blocs enfants en ligne de gauche à droite
-> `row-reverse` place les blocs enfants en ligne de droite à gauche
-> `column` place les blocs enfants en colonne de haut en bas
-> `column-reverse` place les blocs enfants en colonne de bas en haut
+> `row` (par défaut) : place les blocs enfants en ligne de gauche à droite  
+> `row-reverse` : place les blocs enfants en ligne de droite à gauche  
+> `column` : place les blocs enfants en colonne de haut en bas  
+> `column-reverse` : place les blocs enfants en colonne de bas en haut  
 
 
