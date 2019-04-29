@@ -22,6 +22,12 @@ findSelectorAndReplaceData('h1',me.lastName + ' ' + me.usualName + ' ' + me.firs
 findSelectorAndReplaceData('.intro', me.intro);
 
 
+
+
+
+
+
+
 findSelectorAndReplaceData('#diplomes','Diplômes');
 
 findSelectorAndReplaceData('#diplome1', 'Bac Technicien Supérieur 2017');
@@ -39,8 +45,12 @@ findSelectorAndReplaceData('#entreprise1','Intérimaire chez Adecco');
 
 findSelectorAndReplaceData('#date2', 'CDI Décembre 2017 / Avril 2018');
 findSelectorAndReplaceData('#entreprise2','Leclerc à Gennevilliers :');
-findSelectorAndReplaceData('poste','Responsable du rayon liquide');
+findSelectorAndReplaceData('#poste','Responsable du rayon liquide');
 
-findSelectorAndReplaceData('date3', 'Stage Mai / Juin 2017');
-findSelectorAndReplaceData('entreprise3','EANET à La Garenne Colombe :');
-findSelectorAndReplaceData('stage','Stage de 6 semaines dans une entreprise de site internet personnalisé à la demande');
+findSelectorAndReplaceData('#date3', 'Stage Mai / Juin 2017');
+findSelectorAndReplaceData('#entreprise3','EANET à La Garenne Colombe :');
+findSelectorAndReplaceData('#stage','Stage de 6 semaines dans une entreprise de site internet personnalisé à la demande');
+
+const today = document.querySelector('#actual-date');
+today.innerText = new Date().toLocaleDateString();
+
