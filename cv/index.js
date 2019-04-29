@@ -23,10 +23,21 @@ findSelectorAndReplaceData('.intro', me.intro);
 
 
 
+findSelectorAndReplaceData('#langues','Langues');
 
+findSelectorAndReplaceData('#langue1-lu1','Anglais lu : Très bien');
+findSelectorAndReplaceData('#langue1-lu2','Anglais lu : Très bien');
 
+findSelectorAndReplaceData('#qualité','Qualités');
 
+findSelectorAndReplaceData('#qualités','Organisé, Sérieux, Patient, Travail en équipe');
 
+findSelectorAndReplaceData('#divers','Divers');
+
+findSelectorAndReplaceData('#loisirs','Loisirs');
+
+findSelectorAndReplaceData('#activité','Centres d\'intérêt : Livres, Informatique, Jeux Vidéo, Echecs');
+findSelectorAndReplaceData('#sport','Sports : Judo (4 ans, Coupe Technique), Handball (3 ans, catégorie minimes, champion interdistrict), Badminton (2 ans, catégorie cadet)');
 
 findSelectorAndReplaceData('#diplomes','Diplômes');
 
@@ -53,4 +64,3 @@ findSelectorAndReplaceData('#stage','Stage de 6 semaines dans une entreprise de 
 
 const today = document.querySelector('#actual-date');
 today.innerText = new Date().toLocaleDateString();
-
