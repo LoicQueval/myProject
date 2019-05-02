@@ -37,9 +37,9 @@ Les propriétés `flex-wrap : nowrap | wrap | wrap-reverse` servent à placer le
 }
 ```
 
-> `nowrap` (par défaut) : met tous les blocs enfants sur une ligne (déformation possible)
-> `wrap` : met les blocs enfants sur plusieurs ligne de haut en bas
-> `wrap-reverse` : met les blocs enfants sur plusieurs ligne de bas en haut
+> `nowrap` (par défaut) : met tous les blocs enfants sur une ligne (déformation possible)  
+> `wrap` : met les blocs enfants sur plusieurs ligne de haut en bas  
+> `wrap-reverse` : met les blocs enfants sur plusieurs ligne de bas en haut  
 
 ### Choisir un alignement sur une ligne
 
@@ -51,12 +51,12 @@ Les propriétés `justify-content : flex-start | flex-end | center | space-betwe
 }
 ```
 
-> `flex-start` (par défaut) : met tous les blocs enfants de gauche à droite
-> `flex-end`: met tous les blocs enfants de droite à gauche
-> `center` : met tous les blocs enfants au centre
-> `space-between` : éloigne le plus possible les blocs les uns des autres (très grand espace)
-> `space-around` : laisse un espace de même taille entre chaque blocs enfants (espace moyen)
-> `space-evenly` : laisse un espace de même taille entre chaque blocs enfants ainsi que la bordure (espace petit)
+> `flex-start` (par défaut) : met tous les blocs enfants de gauche à droite  
+> `flex-end`: met tous les blocs enfants de droite à gauche  
+> `center` : met tous les blocs enfants au centre  
+> `space-between` : éloigne le plus possible les blocs les uns des autres (très grand espace)  
+> `space-around` : laisse un espace de même taille entre chaque blocs enfants (espace moyen)  
+> `space-evenly` : laisse un espace de même taille entre chaque blocs enfants ainsi que la bordure (espace petit)  
 
 ### Choisir un alignement sur plusieurs ligne
 
@@ -68,12 +68,12 @@ Les propriétés `align-content : flex-start | flex-end | center | space-between
 }
 ```
 
-> `flex-start` : met tous les blocs enfants de haut en bas
-> `flex-end`: met tous les blocs enfants de bas en haut
-> `center` : met tous les blocs enfants au milieu
-> `space-between` : éloigne le plus possible les blocs les uns des autres (très grand espace)
-> `space-around` : laisse un espace de même taille entre chaque blocs enfants (espace moyen)
-> `stretch` (par défaut) : place tout les bocs enfants de sorte à prendre le plus d'espace possible 
+> `flex-start` : met tous les blocs enfants de haut en bas  
+> `flex-end`: met tous les blocs enfants de bas en haut  
+> `center` : met tous les blocs enfants au milieu  
+> `space-between` : éloigne le plus possible les blocs les uns des autres (très grand espace)  
+> `space-around` : laisse un espace de même taille entre chaque blocs enfants (espace moyen)  
+> `stretch` (par défaut) : place tout les bocs enfants de sorte à prendre le plus d'espace possible   
 
 ## Propriété pour le bloc enfant
 
