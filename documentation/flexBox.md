@@ -1,6 +1,6 @@
 # Flexbox
 
-## Propriété pour le parent bloc
+## Propriété pour le bloc parent
 
 ### Rendre un bloc flexible
 
@@ -57,3 +57,34 @@ Les propriétés `justify-content : flex-start | flex-end | center | space-betwe
 > `space-between` : éloigne le plus possible les blocs les uns des autres (très grand espace)
 > `space-around` : laisse un espace de même taille entre chaque blocs enfants (espace moyen)
 > `space-evenly` : laisse un espace de même taille entre chaque blocs enfants ainsi que la bordure (espace petit)
+
+### Choisir un alignement sur plusieurs ligne
+
+Les propriétés `align-content : flex-start | flex-end | center | space-between | space-around | stretch` servent à définir le placement des enfants sur une ligne.
+
+```css
+.container {
+  align-content: flex-start | flex-end | center | space-between | space-around | stretch;
+}
+```
+
+> `flex-start` : met tous les blocs enfants de haut en bas
+> `flex-end`: met tous les blocs enfants de bas en haut
+> `center` : met tous les blocs enfants au milieu
+> `space-between` : éloigne le plus possible les blocs les uns des autres (très grand espace)
+> `space-around` : laisse un espace de même taille entre chaque blocs enfants (espace moyen)
+> `stretch` (par défaut) : place tout les bocs enfants de sorte à prendre le plus d'espace possible 
+
+## Propriété pour le bloc enfant
+
+### Définir un ordre d'affichage
+
+La propriété `order : 0->99` sert à définir un ordre de priorité d'affichage
+
+```css
+.item {
+  order: <nombre entier>;
+}
+```
+
+Plus le nombre sera proche de 1 plus le bloc enfant sera prioritaire dans l'ordre d'affichage
