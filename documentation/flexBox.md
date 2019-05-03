@@ -87,4 +87,4 @@ La propriété `order : 0->99` sert à définir un ordre de priorité d'affichag
 }
 ```
 
-**Plus le nombre sera proche de 1 plus le bloc enfant sera prioritaire dans l'ordre d'affichage**
+**Important** : Plus le nombre sera proche de 1 plus le bloc enfant sera prioritaire dans l'ordre d'affichage
