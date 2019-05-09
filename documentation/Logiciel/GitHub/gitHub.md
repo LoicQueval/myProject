@@ -18,3 +18,4 @@ Lorsque l'on dépose un projet sur GitHub, on crée un `repository`
 **Important** : Il peut y avoir conflit lorsque deux personne travaillant sur le même projet `push` en même temps.
 Dans ce cas résoudre les conflits avec la seconde personne via Webstorm (possibilité de le faire avec des commandes)
 
+**Important** : Il faut vérifiez son mail lorsque l'on est inviter sur un projet d'une autre personne
