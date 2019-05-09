@@ -1,4 +1,4 @@
-# Git
+# GitHub
 
 Git est un protocole qui permet d'échanger, de stocker et de mettre à jour du code sur GitHub    
 Exemple de protocole connu : `http//`
@@ -15,3 +15,4 @@ Lorsque l'on dépose un projet sur GitHub, on crée un `repository`
 * On `pull` du cloud vers le fichier local ou extérieur pour récupérer la nouvelle version  
 * On `commit` pour découper en plusieurs partie son pull et éviter un revert sur tout les fichiers
 
+##
