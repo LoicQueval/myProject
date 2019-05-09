@@ -2,6 +2,9 @@
 
 ## Les variables
 
+Contrairement à d'autre language (language C) en Javascript, il n'y a pas de notion de gérer la taille de ses variable.
+Une variable JavaScript prend automatiquement ça taille maximal.
+
 ### Variable permanente et réassignable  
 `const` sert à déclarer une variable dont la valeur est assignée **qu'une seul fois**
 
@@ -68,3 +71,4 @@ hostels.sort((letter1, letter2) => letter1 < letter2? -1 : 1);
 
 **Important** :  Peux aussi bien servire pour les nombres que pour les lettres, les lettres ayant des valeurs numériques leur correspondant 
 A étant la valeur la plus forte et Z la moins forte 
+
