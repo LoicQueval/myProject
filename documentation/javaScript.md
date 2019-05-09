@@ -2,6 +2,7 @@
 
 ## Les variables
 
+### Variable permanente et réassignable  
 `const` sert à déclarer une variable dont la valeur est assignée **qu'une seul fois**
 
 ```javascript
@@ -9,7 +10,11 @@ const today = 0;
 console.log(today)
 ```
 
-`let` sert à déclarer une variable dont la valeur est assignée **plusieurs fois**
+**Important** : on parle de réassignation lorsque le nom de la variable (sans propriété) est suivi d'un signe égal
+
+
+`let` sert à déclarer une variable dont la valeur est assignée **plusieurs fois** (réassignation)
+
 
 ```javascript
 let today = 0;
