@@ -1,9 +1,11 @@
 # Git
 
-Git est un protocole qui permet d'échanger et de mettre à jour du code, Github étant un serveur pour stocker celui-ci
-Exemple de protocole connu : http//
+Git est un protocole qui permet d'échanger, de stocker et de mettre à jour du code sur GitHub    
+Exemple de protocole connu : `http//`
 
 ## Comment ça marche
+
+Lorsque l'on dépose un projet sur GitHub, on crée un `repository`
 
 `Fichier local <=======> cloud <=======> Fichier extérieur`
 
@@ -12,3 +14,4 @@ Exemple de protocole connu : http//
 * On `merge` si le push/commit du fichier extérieur nous plait  
 * On `pull` du cloud vers le fichier local ou extérieur pour récupérer la nouvelle version  
 * On `commit` pour découper en plusieurs partie son pull et éviter un revert sur tout les fichiers
+
