@@ -24,3 +24,12 @@ today = 2;
 const longueur = [1,2,3,4];
 console.log(longueur.length);
 ```
+
+## Afficher un contenu
+
+`console.log()` sert à afficher du texte, une variable, un nombre
+
+```javascript
+console.log('hello');
+console.log(12);
+```
