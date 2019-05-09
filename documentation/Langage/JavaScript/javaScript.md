@@ -5,7 +5,7 @@
 Contrairement à d'autre language (language C) en Javascript, il n'y a pas de notion de gérer la taille de ses variable.
 Une variable JavaScript prend automatiquement ça taille maximal.
 
-### Variable permanente et réassignable  
+### Variable constante et réassignable  
 `const` sert à déclarer une variable dont la valeur est assignée **qu'une seul fois**
 
 ```javascript
