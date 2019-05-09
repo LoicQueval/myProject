@@ -6,6 +6,7 @@
 
 ```javascript
 const today = 0;
+console.log(today)
 ```
 
 `let` sert à déclarer une variable dont la valeur est assignée **plusieurs fois**
@@ -52,8 +53,8 @@ console.log(12);
 `.sort` sert à trier un contenu de façon croissante ou décroissante en fonction de la valeur retournée
 
 ```javascript
-cont hostels = ['A', 'B', 'AB', 'Z']
-hostels.sort((letter1, letter2) => letter1.roomName < letter2.roomName? -1 : 1);
+const hostels = ['A', 'B', 'AB', 'Z'];
+hostels.sort((letter1, letter2) => letter1 < letter2? -1 : 1);
 ```
 
 > Si -1 est retourné le contenu est trié du plus grand au plus petit (décroissant)  
