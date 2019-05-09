@@ -15,3 +15,12 @@ let today = 0;
 today = 1;
 today = 2;
 ```
+
+## La longueur d'un tableau
+
+`.length` sert à obtenir une longueur de variable
+
+```javascript
+const longueur = [1,2,3,4];
+console.log(longueur.length);
+```
