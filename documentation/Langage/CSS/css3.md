@@ -29,6 +29,14 @@ Ils servent à définir la taille d'une zone en px (pixel) ou en % (pourcentage)
     font-family:"Arial", sans-serif;
 ```
 
+## Définir une taille d'écriture
+
+`font-size` sert à définir une taille d'écriture par défaut `small`
+
+```css
+font-size : x-large
+``` 
+
 ## Marge intérieur et extérieur
 
 `margin` sert à définir une marge extérieur pour le placement et `padding` une marge intérieur pour le texte
