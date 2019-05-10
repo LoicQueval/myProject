@@ -10,19 +10,30 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 
 ### Bonnes pratiques HTML 5 
 
+1. Nom du fichier `html` principal => `index.html`
 1. Un `<article>` doit être indépendant du reste de la page
 1. Un `<article>` se situe dans une `<section>` 
 1. Une `<section>` contient du texte regroupant `<article>` et `<p>` ayant un rapport entre eux
 1. Un seul `<h1>` par page
-1. Ajouter un text avec `alt` au photo ou sur des liens pour les mals voyants 
+1. Ajouter un text avec `alt` au photo ou sur des liens pour les malvoyants
+1. Nom de `class` et `id` en `camelCase`
+1. Tout nom ***doit être en rapport avec son contenu***
+
+### Bonnes pratiques CSS 3
+
+1. Nom du fichier `css` principal => `styles.css`
+1. Pas de `camelCase` en Css mais plutôt => `Camel-Case`
 
 ### Bonnes pratiques JavaScript
 
+1. Nom du fichier `javaScript` principal => `index.js`
 1. Garder une ligne vide à la fin du code
 1. En JavaScript un seul guillemet 
+1. Si possible séparer la data dans un fichier => `data.js`
 
 ### Bonnes pratiques GitHub
 
 1. Ecrire le nom des fichiers en `camelCase`
+1. Ranger ses fichiers par thème
 
 
