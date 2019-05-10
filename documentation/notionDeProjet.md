@@ -6,7 +6,9 @@ et dont on a **testé** le bon fonctionnement
 But de la formation **White Rabbit** : garantir un code de qualité fait selon les bonne pratiques  
 Indirectement, permet de valider le projet dans les temps et fonctionnel  
 
-## Bonnes pratiques HTML 5 
+## Bonnes pratiques
+
+### Bonnes pratiques HTML 5 
 
 1. Un `<article>` doit être indépendant du reste de la page
 1. Un `<article>` se situe dans une `<section>` 
@@ -14,12 +16,13 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 1. Un seul `<h1>` par page
 1. Ajouter un text avec `alt` au photo ou sur des liens pour les mals voyants 
 
-## Bonnes pratiques JavaScript
+### Bonnes pratiques JavaScript
 
 1. Garder une ligne vide à la fin du code
 1. En JavaScript un seul guillemet 
 
-## Bonnes pratiques GitHub
+### Bonnes pratiques GitHub
 
 1. Ecrire le nom des fichiers en `camelCase`
+
 

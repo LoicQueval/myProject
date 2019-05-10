@@ -10,7 +10,7 @@
   color: white;
 ```
 
-## width et height
+## Width et height
 
 `width` représente la largeur et `height` représente la hauteur  
 Ils servent à définir la taille d'une zone en px (pixel) ou en % (pourcentage)
@@ -20,3 +20,6 @@ Ils servent à définir la taille d'une zone en px (pixel) ou en % (pourcentage)
     height: 50px;
 ```
 
+## Définir un style d'écriture
+
+`font-family` sert à appliquer un style d'écriture comme `arial` ou `fantasy` généralement sur la balise

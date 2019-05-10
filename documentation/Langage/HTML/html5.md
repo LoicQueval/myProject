@@ -19,7 +19,7 @@ La balise `<h1>` est une balise pour un titre de page
 
 ## Paragraphe
 
-La baliste paragraphe `<p>` est souvent associer à un titre `<h1>` dans le but d'émettre un contenu **en rapport** avec le titre
+La balise paragraphe `<p>` est souvent associer à un titre `<h1>` dans le but d'émettre un contenu **en rapport** avec le titre
 
 ```html
 <h2>Mon deuxième titre le plus important</h2>
@@ -129,8 +129,3 @@ La balise `<link>` sert à lier des ressources entre elle, le plus souvent une p
 
 `href` est un attribut qui renseigne sur l'endroit (URL) où est le fichier à lier  
 Il est souvent utiliser avec `rel` qui lui renseigne sur la relation entre le document et le document lier
-
-
-
-## nav
-
