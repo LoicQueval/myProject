@@ -51,5 +51,5 @@ padding : 0 5px;
 // On peux très bien remplacer px par %
 margin : 0 5px 10px 20px;
 padding : 0 5px 10px 20px;
-//Dans l\'ordre on a une marge haut de 0 droite de 5px bas de 10px et gauche de 20px 
+//Dans l'ordre on a une marge haut de 0 droite de 5px bas de 10px et gauche de 20px 
 ``` 
