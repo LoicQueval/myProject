@@ -11,6 +11,7 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 ### Bonnes pratiques HTML 5 
 
 1. Nom du fichier `html` principal => `index.html`
+1. En HTML on utilise le double guillemet
 1. Un `<article>` doit être indépendant du reste de la page
 1. Un `<article>` se situe dans une `<section>` 
 1. Une `<section>` contient du texte regroupant `<article>` et `<p>` ayant un rapport entre eux
