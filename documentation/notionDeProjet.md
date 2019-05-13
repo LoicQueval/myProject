@@ -37,5 +37,5 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 
 1. Ecrire le nom des fichiers en `camelCase`
 1. Ranger ses fichiers par thème
-
+1. Toujours travailler sur une `branch` plutôt que sur `master` pour sécuriser son code
 
