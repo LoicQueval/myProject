@@ -11,6 +11,7 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 ### Bonnes pratiques HTML 5 
 
 1. Nom du fichier `html` principal => `index.html`
+1. En HTML on utilise le double guillemet
 1. Un `<article>` doit être indépendant du reste de la page
 1. Un `<article>` se situe dans une `<section>` 
 1. Une `<section>` contient du texte regroupant `<article>` et `<p>` ayant un rapport entre eux
@@ -23,6 +24,7 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 
 1. Nom du fichier `css` principal => `styles.css`
 1. Pas de `camelCase` en Css mais plutôt => `Camel-Case`
+1. Réutiliser au maximum une `class` déjà utiliser (OOCSS)
 
 ### Bonnes pratiques JavaScript
 
@@ -35,5 +37,5 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 
 1. Ecrire le nom des fichiers en `camelCase`
 1. Ranger ses fichiers par thème
-
+1. Toujours travailler sur une `branch` plutôt que sur `master` pour sécuriser son code
 
