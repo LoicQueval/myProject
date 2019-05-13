@@ -24,6 +24,7 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 
 1. Nom du fichier `css` principal => `styles.css`
 1. Pas de `camelCase` en Css mais plutôt => `Camel-Case`
+1. Réutiliser au maximum une `class` déjà utiliser (OOCSS)
 
 ### Bonnes pratiques JavaScript
 
