@@ -32,6 +32,7 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 1. Garder une ligne vide à la fin du code
 1. En JavaScript un seul guillemet 
 1. Si possible séparer la data dans un fichier => `data.js`
+1. Faire de l'isomorphisme pour conserver une ressemblance visuel entre la programmation et l'affichage
 
 ### Bonnes pratiques GitHub
 
