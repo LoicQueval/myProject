@@ -1,10 +1,9 @@
 # Qu'est ce qu'un bon projet ?
 
-Un bon projet est avant tout un projet ***validé à temps***, étant fait avec un ***code de qualité*** conforme ***aux bonnes pratiques***
-et dont on a **testé** le bon fonctionnement
+Un bon projet est avant tout un projet ***validé à temps***, étant fait avec un ***code de qualité*** conforme ***aux bonnes pratiques*** et dont on a **testé** le bon fonctionnement.
 
 But de la formation **White Rabbit** : garantir un code de qualité fait selon les bonne pratiques  
-Indirectement, permet de valider le projet dans les temps et fonctionnel  
+Indirectement, permet de valider le projet dans les temps et fonctionnel.  
 
 ## Bonnes pratiques
 
@@ -25,6 +24,7 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel
 1. Nom du fichier `css` principal => `styles.css`
 1. Pas de `camelCase` en Css mais plutôt => `Camel-Case`
 1. Réutiliser au maximum une `class` déjà utiliser (OOCSS)
+1. Les éléments `inline` doivent être dans un élément `block`
 
 ### Bonnes pratiques JavaScript
 
