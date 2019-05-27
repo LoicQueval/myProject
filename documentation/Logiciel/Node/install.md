@@ -7,4 +7,7 @@ serveur web.
 ## Avec FireBase
 
 1. Créer un compte `firebase` (ou compte google)
-1. Ajouter un projet, changer l'id, France donné analystique
+1. Ajouter un projet, changer l'id, `Données analystique : France`, `Zone Cloud FireStore : `eur3 (europe-west)`
+1. Documentation sur `firebase tools`
+
+## Sans FireBase
