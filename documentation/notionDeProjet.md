@@ -1,6 +1,11 @@
 # Qu'est ce qu'un bon projet ?
 
-Un bon projet est avant tout un projet ***validé à temps***, étant fait avec un ***code de qualité*** conforme ***aux bonnes pratiques*** et dont on a **testé** le bon fonctionnement.
+Un bon projet est avant tout un projet ***validé à temps***, étant fait avec un ***code de qualité*** conforme ***aux 
+bonnes pratiques*** et dont on a **testé** le bon fonctionnement.
+
+Un pojet doit être conforme à sa RFC (request for comments)  
+Une RFC est un cahier des charges décrivant les aspects et spécifications techniques, ou de différents matériels 
+informatiques.    
 
 But de la formation **White Rabbit** : garantir un code de qualité fait selon les bonne pratiques  
 Indirectement, permet de valider le projet dans les temps et fonctionnel.  
