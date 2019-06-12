@@ -3,7 +3,7 @@
 Un bon projet est avant tout un projet ***validé à temps***, étant fait avec un ***code de qualité*** conforme ***aux 
 bonnes pratiques*** et dont on a **testé** le bon fonctionnement.
 
-Un pojet doit être conforme à sa RFC (request for comments)  
+Un projet doit être conforme à sa RFC (request for comments)  
 Une RFC est un cahier des charges décrivant les aspects et spécifications techniques, ou de différents matériels 
 informatiques.    
 
@@ -12,10 +12,13 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel.
 
 ## Bonnes pratiques
 
+1. Prendre le temps de donner un nom qui a du sens pour gagner en compréhension et en temps soit le 
+`naming`
+
 ### Bonnes pratiques HTML 5 
 
 1. Nom du fichier `html` principal => `index.html`
-1. En HTML on utilise le double guillemet
+1. En `HTML` on utilise le double guillemet
 1. Un `<article>` doit être indépendant du reste de la page
 1. Un `<article>` se situe dans une `<section>` 
 1. Une `<section>` contient du texte regroupant `<article>` et `<p>` ayant un rapport entre eux
@@ -44,4 +47,6 @@ Indirectement, permet de valider le projet dans les temps et fonctionnel.
 1. Ecrire le nom des fichiers en `camelCase`
 1. Ranger ses fichiers par thème
 1. Toujours travailler sur une `branch` plutôt que sur `master` pour sécuriser son code
+1. Vérifier que toute action sur `GitHub` ce passe ***correctement*** comme le `push`
+1. 
 
