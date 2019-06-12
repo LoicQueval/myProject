@@ -16,10 +16,12 @@ Lorsque l'on dépose un projet sur GitHub, on crée un `repository`
 * On `pull request` pour demander à `merge` sa `branch annexe` sur la `branch master`
 * On `commit` pour découper en plusieurs partie son pull et éviter un revert sur tout les fichiers
 
+**Important** : Vérifiez la supression de branche sur `Webstorm` **et** `GitHub`
+
 **Important** : Il peut y avoir conflit lorsque deux personne travaillant sur le même projet `push` en même temps.
 Dans ce cas résoudre les conflits avec la seconde personne via Webstorm (possibilité de le faire avec des commandes)
 
-Toute ses actions se fond sur une `branch master` destinée être la version final du code et des `branch annexe` destinée elle a développer des `feature` soit du contenu destinée à `master` que l'on sépare pour éviter tout problème et assurer une sauvegarde de secours
+Toutes ses actions se fond sur une `branch master` destinée être la version final du code et des `branch annexe` destinée elle a développer des `feature` soit du contenu destinée à `master` que l'on sépare pour éviter tout problème et assurer une sauvegarde de secours
 
 **Important** : Il faut vérifiez son mail lorsque l'on est invité sur le projet d'une autre personne
 
